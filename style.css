@@ -54,3 +54,16 @@ font-size:14px;
 color:#c7630a;    
 text-transform:uppercase;
 }
+
+section {
+background:#121212;
+color: white;
+padding: 15px 35px 45px 35px;
+position: absolute;
+top: 50%;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+text-align: center;
+border-radius:20px;
+}
