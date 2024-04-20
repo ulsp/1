@@ -67,3 +67,8 @@ transform: translate(-50%, -50%);
 text-align: center;
 border-radius:20px;
 }
+
+section img {
+width:128px;
+height:128px;
+}
