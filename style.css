@@ -95,3 +95,7 @@ padding:20px;
 margin-right:20px;
 border-radius:15px;
 }
+
+section span {
+border-bottom:1px dashed #fff;
+}
