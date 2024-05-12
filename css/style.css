@@ -102,6 +102,12 @@ border-bottom:1px dashed #fff;
 cursor:pointer;
 }
 
+section span:hover {
+color:#5197e3;
+border-bottom:1px dashed #5197e3;
+cursor:pointer;
+}
+
 #footer {
 color:#333;
 }
