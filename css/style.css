@@ -104,3 +104,6 @@ cursor:pointer;
 #footer {
 color:#222;
 }
+
+#footer a { color:#253a49; }
+#footer a:hover { color:#7aa5cd; text-decoration:none; }
