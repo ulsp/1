@@ -85,6 +85,7 @@ background:#999;
 padding:20px;
 margin-right:20px;
 border-radius:15px;
+transition:0.3s;
 }
 
 section img:active {
