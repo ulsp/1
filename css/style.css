@@ -100,3 +100,7 @@ section span {
 border-bottom:1px dashed #fff;
 cursor:pointer;
 }
+
+#footer {
+color:#222;
+}
