@@ -41,6 +41,7 @@ text-decoration:none;
 a:hover {
 color:#4a8dbf;
 text-decoration:underline;
+transition:0.3s;
 }
 
 h1 {
