@@ -45,10 +45,14 @@ transition:0.3s;
 }
 
 h1 {
-font-size:29px;
-color:#fff;    
-text-transform:uppercase;
-margin-bottom:15px;
+font-size: 29px;
+color: #fff;
+text-transform: uppercase;
+margin-bottom: 15px;
+color: #555;
+border: 1px solid #fff;
+width: 700px;
+border-radius: 15px;
 }
 
 h3 {
