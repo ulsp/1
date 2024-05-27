@@ -49,7 +49,6 @@ font-size:25px;
 color:#fff;
 text-transform:uppercase;
 margin-bottom:15px;
-color:#fff;
 border: 1px solid #fff;
 width:600px;
 border-radius:15px;
@@ -102,7 +101,7 @@ margin-right:20px;
 }
 
 section span {
-border-bottom:1px dashed #fff;
+color:#87b999;
 cursor:pointer;
 }
 
