@@ -106,8 +106,8 @@ cursor:pointer;
 }
 
 section span:hover {
-color:#5197e3;
-border-bottom:1px dashed #5197e3;
+color:#87b999;
+border-bottom:1px dashed #87b999;
 cursor:pointer;
 transition:0.3s;
 }
